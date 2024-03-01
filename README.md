@@ -118,6 +118,44 @@ Note: some of the problems are "premium" problems
 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 
 
+--Constructive Algorithms
+1) Split String https://lnkd.in/eTb6VDmC
+
+2) Bin packing problem https://lnkd.in/eXZKX3Sv
+
+--Combinatorics
+1) Sum of smallest elements in distinct sets https://lnkd.in/exm7jDTm
+
+--Dynamic Programming
+1) Kth Step Sequence https://lnkd.in/ertBsik7
+
+2) Collecting coins [Combinatorics involved] https://lnkd.in/eqM-zDyi
+
+--Graph
+1) Turn on all systems [Minimum spanning tree] https://lnkd.in/ekj627TZ
+
+2) Turning Pages [DFS / Backtracking] https://lnkd.in/eHsfBsM5
+
+--Tree
+1) Delete Edge to minimize the difference in subtree sum. https://lnkd.in/edba9e8T
+
+--Bitset
+1) Queries on Binary String [Queues can be used] https://lnkd.in/edZRjGck
+
+--Hashmap
+1) Insert Delete Get Random https://lnkd.in/eRk-hSKW
+
+2) Implement a hash map. https://lnkd.in/eznHKki3
+
+--Stacks
+1) Implement a queue with two stacks. https://lnkd.in/ebJbDced
+
+--Binary Search
+2) Index of a rotation point in an array. https://lnkd.in/e2KQs-Mq
+
+
+
+
 *Old but useful links for prep*
 1) For Online Assessment + Phone Screen + Onsite Rounds:
 - https://lnkd.in/dhgnCHDh
